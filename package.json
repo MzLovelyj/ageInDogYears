@@ -1,0 +1,14 @@
+{
+  "name": "dogyears",
+  "version": "1.0.0",
+  "description": "CodeAcademy Exercise: With your knowledge of math operators and variables, use JavaScript to convert your age into dog years.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "liljp064@gmail.com",
+  "license": "ISC"
+}
